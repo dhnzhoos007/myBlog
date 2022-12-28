@@ -102,6 +102,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: "git"
+  type: git
   repository: https://github.com/dhnzhoos007/myBlog.git
   branch: main
